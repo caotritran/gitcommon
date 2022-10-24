@@ -1,6 +1,3 @@
 this is first comment
-<<<<<<< HEAD
 edit from deploy-uat - 1
-=======
 edit from prod-test
->>>>>>> 3e740c9 (edit a.txt from prod-test)
